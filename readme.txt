@@ -1,4 +1,3 @@
-premier fichier sous  master
+Ce fichier est sous la branch master
 
-
-changement ..
+et l'autre sur credits
